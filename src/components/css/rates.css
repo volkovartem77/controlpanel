@@ -1,0 +1,12 @@
+.myTable {
+    /*max-width: 400px;*/
+    position: absolute;
+    /*width: 90%;*/
+    max-height: 100%;
+    margin:  50px 20px;
+    /*overflow: scroll;*/
+}
+
+.myCells {
+    padding: 10px 35px;
+}
